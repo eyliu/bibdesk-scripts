@@ -1,1 +1,9 @@
 These are some useful AppleScripts for BibDesk: http://bibdesk.sourceforge.net
+
+Capitalize Authors
+	Fixes capitalization of author names (e.g. Web of Science entries for
+	older papers)
+
+Capitalize Journals
+	Fixed capitalization of journal titles (e.g. Web of Science entries for
+	older papers)
